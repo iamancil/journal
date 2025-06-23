@@ -19,7 +19,7 @@
 - How the threading can be a vulnerability
 - Used Burp Suite again
 
-## 🛡️ Mitigations (Optional)
+## 🛡️ Mitigations
 
 - Synchronization Mechanisms
 - Atomic Operations
