@@ -14,14 +14,9 @@ The goal is to document my learning journey with clarity, structure, and consist
 
 ## 📁 Structure
 
-.'''
-├── DSA/
-│ └── Notes and code from Striver DSA Sheet & Coursera (UCSD)
-├── ML-Notes/
-│ └── Concepts and labs from Andrew Ng ML Specialization
-├── TryHackMe/
-│ └── Lab writeups with enumeration, exploitation, and findings
-
+- `DSA/` – Notes and code from Striver DSA Sheet & UCSD Coursera specialization
+- `ML-Notes/` – Concepts and labs from Andrew Ng's ML Specialization
+- `TryHackMe/` – Lab writeups with enumeration, exploitation, and findings
 
 ---
 
