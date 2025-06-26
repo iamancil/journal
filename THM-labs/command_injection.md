@@ -1,7 +1,7 @@
 # [Command Injection]
 
 **Date:** 2025-06-26  
-**Category:** [Informatio gathering, Exploitation]  
+**Category:** [Information gathering, Exploitation]  
 **Difficulty:** [Easy]
 
 ---
