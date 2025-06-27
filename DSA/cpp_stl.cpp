@@ -23,4 +23,6 @@ void expainVectors() {
   vector<pair<int, int>> p;
   p.push_back({8,9});
   p.emplace_back(5,6);
+
+  vector<int>
 }
